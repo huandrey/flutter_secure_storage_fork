@@ -19,4 +19,6 @@ Flutter Secure Storage Plugin for MacOs
   s.platform = :osx, '10.14'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.swift_version = '5.0'
+
+  s.resource_bundles = {'flutter_secure_storage_macos' => ['PrivacyInfo.xcprivacy']}
 end
