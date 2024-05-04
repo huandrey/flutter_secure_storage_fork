@@ -1,5 +1,8 @@
-# flutter_secure_storage
+# flutter_secure_storage_fork
 
+---
+### **[Basically, I'm created this fork to add the privacy manifest and try publish it to the pub store]**
+---
 ### Breaking change for v5.1.0
 IOSAccessibility has been renamed to KeychainAccessibility. This however hasn't been properly documented in the changelog.
 
